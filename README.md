@@ -1,6 +1,7 @@
-# zokrates-api
+# zokrates.js
 
 This is a Node.js wrapper around [ZoKrates](https://github.com/Zokrates).
+Originally developed at [@eyblockchain/zokrates.js](https://github.com/EYBlockchain/zokrates.js).
 
 ## Instructions
 
@@ -18,4 +19,4 @@ In the same Dockerfile, you then need to copy over the ZoKrates executable as we
   COPY --from=builder /home/zokrates/.zokrates* /app/stdlib
 ```
 
-From then, you can import and use ZoKrates as any other standard Node library.
+From then, you can import and use zokrates.js as any other standard Node library.

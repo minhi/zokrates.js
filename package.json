@@ -1,10 +1,10 @@
 {
-  "name": "@eyblockchain/zokrates.js",
+  "name": "zokrates.js",
   "description": "This is a Node.js wrapper around ZoKrates.",
   "license": "PUBLIC DOMAIN",
   "version": "0.0.0-semantically-released",
   "main": "index.js",
-  "repository": "https://github.com/EYBlockchain/zokrates.js.git",
+  "repository": "https://github.com/myronrotter/zokrates.js",
   "files": [
     "lib"
   ],
