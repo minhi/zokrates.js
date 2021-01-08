@@ -1,3 +1,10 @@
+# [1.3.0-alpha.5](https://github.com/minhi/zokrates.js/compare/v1.3.0-alpha.4...v1.3.0-alpha.5) (2021-01-08)
+
+
+### Bug Fixes
+
+* trigger release ([e7da844](https://github.com/minhi/zokrates.js/commit/e7da84434dfe9482d445604d706b1787300c9bd4))
+
 # [1.3.0-alpha.4](https://github.com/minhi/zokrates.js/compare/v1.3.0-alpha.3...v1.3.0-alpha.4) (2021-01-08)
 
 
