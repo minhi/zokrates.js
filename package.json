@@ -1,8 +1,8 @@
 {
-  "name": "zokrates.js",
+  "name": "zokrates--test.js",
   "description": "This is a Node.js wrapper around ZoKrates.",
   "license": "PUBLIC DOMAIN",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0-development",
   "main": "index.js",
   "repository": "https://github.com/myronrotter/zokrates.js",
   "files": [
@@ -15,12 +15,15 @@
     "lint": "cod-scripts lint",
     "lint:md": "markdownlint -i node_modules -i dist .",
     "test": "docker-compose run library jest --runInBand",
-    "validate": "cod-scripts validate"
+    "validate": "cod-scripts validate",
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
-    "cod-scripts": "^3.2.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
     "jest": "^24.9.0",
-    "markdownlint-cli": "^0.18.0"
+    "markdownlint-cli": "^0.18.0",
+    "semantic-release": "^17.3.1"
   },
   "dependencies": {},
   "publishConfig": {
