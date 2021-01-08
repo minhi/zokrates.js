@@ -2,7 +2,7 @@
   "name": "zokrates--test.js",
   "description": "This is a Node.js wrapper around ZoKrates.",
   "license": "PUBLIC DOMAIN",
-  "version": "0.0.0-development",
+  "version": "1.3.0-alpha.1",
   "main": "index.js",
   "repository": "https://github.com/minhi/zokrates.js",
   "files": [
