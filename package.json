@@ -4,7 +4,7 @@
   "license": "PUBLIC DOMAIN",
   "version": "0.0.0-development",
   "main": "index.js",
-  "repository": "https://github.com/myronrotter/zokrates.js",
+  "repository": "https://github.com/minhi/zokrates.js",
   "files": [
     "lib"
   ],
